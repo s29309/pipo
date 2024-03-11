@@ -3,6 +3,6 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("dziendoberek");
+        Console.WriteLine("mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm");
     }
 }
