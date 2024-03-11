@@ -16,4 +16,17 @@ class Program
 
         return sum / arr.Length;
     }
+    public static double Max(int[] arr)
+    {
+        int max = int.MinValue;
+        foreach (int k in arr)
+        {
+            if (k > max)
+            {
+                max = k;
+            }
+        }
+
+        return max;
+    }
 }
