@@ -9,9 +9,9 @@ class Program
     public static double Avg(int[] arr)
     {
         double sum = 0;
-        foreach (int k in arr)
+        foreach (int i in arr)
         {
-            sum += k;
+            sum += i;
         }
 
         return sum / arr.Length;
